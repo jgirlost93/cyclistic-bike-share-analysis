@@ -66,6 +66,12 @@ This analysis demonstrates that casual riders and members have fundamentally dif
 
 ---
 
+## 📽️ Presentation
+
+[View Presentation](presentation/Cyclistic_Presentation.pptx)
+
+---
+
 ## 📁 Project Files
 - `/visuals` → Charts used in the presentation  
 - `/presentation` → Final slide deck  
