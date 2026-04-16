@@ -57,7 +57,7 @@ Cyclistic aims to grow its business by converting casual riders into annual memb
 ## 📊 Visualizations
 ![Average Ride Length](visuals/avg_ride_length_by_type.png)
 ![Rides by Day](visuals/rides_by_day.png)
-![Ride Length by Day](visuals/Average Ride Length by Day of Week (Minutes).png)
+![Ride Length by Day](visuals/avg_ride_length_by_day.png)
 
 ---
 
